@@ -1,6 +1,6 @@
 <?php
 /**
- * @package New Plugin Prac
+ * @package Setting Api 24May
  */
 
 
